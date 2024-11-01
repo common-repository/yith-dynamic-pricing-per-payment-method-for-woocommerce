@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Dynamic Pricing per Payment Method for WooCommerce\n"
+"POT-Creation-Date: 2018-01-25 15:00+0100\n"
+"PO-Revision-Date: 2018-01-25 15:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: YITH <plugins@yithemes.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:120
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:125
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:131
+msgctxt "plugin name in admin page title"
+msgid "Dynamic Pricing per Payment Method"
+msgstr "Dynamic Pricing per Payment Method"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:132
+msgctxt "plugin name in admin WP menu"
+msgid "Dynamic Pricing per Payment Method"
+msgstr "Dynamic Pricing per Payment Method"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:165
+msgid "Plugin documentation"
+msgstr "Documentazione del plugin"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:169
+msgid "Help Center"
+msgstr "Centro assistenza"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-admin.php:173
+msgid "Support platform"
+msgstr "Piattaforma di supporto"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-frontend.php:172
+#: includes/class.yith-wcdppm-post-types.php:109
+msgid "Payment method"
+msgstr "Metodo di pagamento"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-frontend.php:222
+msgid "Payment Method Discount:"
+msgstr "Sconto sul metodo di pagamento:"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-functions.php:81
+msgid "Decrease by value"
+msgstr "Riduci per valore"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:29
+msgid "Payment-method-based price rule"
+msgstr "Regola di prezzo per metodo di pagamento"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:30
+msgid "Payment-method-based price rules"
+msgstr "Regole di prezzo per metodo di pagamento"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:42
+msgid "Payment Method"
+msgstr "Metodo di pagamento"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:43
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:44
+#: includes/class.yith-wcdppm-post-types.php:115
+msgid "Amount"
+msgstr "Importo"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:59
+msgid "All"
+msgstr "Tutti"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:60
+msgid "Published"
+msgstr "Pubblicati"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:61
+msgid "Trash"
+msgstr "Cestina"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:219
+msgid "Delete permanently"
+msgstr "Elimina definitivamente"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:223
+msgid "Delete"
+msgstr "Elimina"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:259
+#, php-format
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:260
+#: includes/class.yith-wcdppm-post-types.php:57
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:270
+#, php-format
+msgid "Restore %s from the Trash"
+msgstr "Ripristina %s dal cestino"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:271
+msgid "Restore"
+msgstr "Ripristina"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:278
+#, php-format
+msgid "Move %s to the Trash"
+msgstr "Sposta %s nel cestino"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:279
+msgctxt "verb"
+msgid "Trash"
+msgstr "Cestina"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:287
+#, php-format
+msgid "Delete %s permanently"
+msgstr "Elimina %s definitivamente"
+
+#: includes/class.yith-wcdppm-dynamic-payment-methods-list-table.php:288
+msgid "Delete Permanently"
+msgstr "Elimina definitivamente"
+
+#: includes/class.yith-wcdppm-post-types.php:53
+#: includes/class.yith-wcdppm-post-types.php:54
+msgid "Dynamic Price per Payment Methods"
+msgstr "Dynamic Pricing per Payment Method"
+
+#: includes/class.yith-wcdppm-post-types.php:55
+msgid "Add new rule"
+msgstr "Aggiungi nuova regola"
+
+#: includes/class.yith-wcdppm-post-types.php:56
+msgid "Add New Rule"
+msgstr "Aggiungi nuova regola"
+
+#: includes/class.yith-wcdppm-post-types.php:58
+msgid "Edit Rule"
+msgstr "Modifica regole"
+
+#: includes/class.yith-wcdppm-post-types.php:59
+msgid "New Rule"
+msgstr "Nuova regola"
+
+#: includes/class.yith-wcdppm-post-types.php:60
+#: includes/class.yith-wcdppm-post-types.php:61
+msgid "View Rule"
+msgstr "Visualizza regola"
+
+#: includes/class.yith-wcdppm-post-types.php:62
+msgid "Search Rules"
+msgstr "Cerca tra le regole"
+
+#: includes/class.yith-wcdppm-post-types.php:63
+msgid "No Rules found"
+msgstr "Nessuna regola trovata"
+
+#: includes/class.yith-wcdppm-post-types.php:64
+msgid "No Rules found in trash"
+msgstr "Nessuna regola trovata nel cestino"
+
+#: includes/class.yith-wcdppm-post-types.php:65
+msgid "Parent Rules"
+msgstr "Regole genitore"
+
+#: includes/class.yith-wcdppm-post-types.php:66
+msgctxt "Admin menu name"
+msgid "YITH Rules"
+msgstr "YITH Rules"
+
+#: includes/class.yith-wcdppm-post-types.php:67
+msgid "All YITH Rules"
+msgstr "Tutte le regole"
+
+#: includes/class.yith-wcdppm-post-types.php:71
+msgid "Dynamic Payment Methods"
+msgstr "Dynamic Payment Methods"
+
+#: includes/class.yith-wcdppm-post-types.php:73
+msgid "This is where rules are stored."
+msgstr "Qui sono salvate tutte le regole."
+
+#: includes/class.yith-wcdppm-post-types.php:100
+msgid "Payment method price rule"
+msgstr "Regola di prezzo per metodo di pagamento"
+
+#: includes/class.yith-wcdppm-post-types.php:106
+msgid "Dynamic pricing per payments - form"
+msgstr "Dynamic pricing per payments - modulo"
+
+#: includes/class.yith-wcdppm-post-types.php:141
+msgid "Back to rules"
+msgstr "Torna alle regole"
+
+#: init.php:35
+msgctxt "Alert Message: WooCommerce requires"
+msgid ""
+"YITH Dynamic Pricing per Payment Method for WooCommerce is enabled but not "
+"effective. It requires WooCommerce in order to work."
+msgstr ""
+"YITH Dynamic Pricing per Payment Method for WooCommerce è abilitato ma non "
+"in funzione. È necessario aver installato WooCommerce perché possa "
+"funzionare correttamente."
+
+#: templates/admin/dynamic-pricing-per-payment-method-rules.php:19
+msgid "Dynamic Pricing per Payment Methods Rules"
+msgstr "Dynamic Pricing per Payment Methods - Regole"
+
+#: templates/admin/dynamic-pricing-per-payment-method-rules.php:19
+msgid "Add new"
+msgstr "Aggiungi nuova"
+
+#: templates/premium/premium.php:217 templates/premium/premium.php:352
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Dynamic Pricing per Payment "
+"Method for WooCommerce%2$s to benefit from all features!"
+msgstr ""
+"Aggiorna alla %1$sversione premium%2$s di %1$sYITH Dynamic Pricing per "
+"Payment Method for WooCommerce%2$s per usufruire di tutte le sue "
+"funzionalità!"
+
+#: templates/premium/premium.php:220 templates/premium/premium.php:355
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: templates/premium/premium.php:221 templates/premium/premium.php:356
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: templates/premium/premium.php:227
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: templates/premium/premium.php:235
+msgid "Surcharge or discount?"
+msgstr "Sovrapprezzo o sconto?"
+
+#: templates/premium/premium.php:238
+msgid ""
+"Do you want to encourage users to make bank transfers rather than cheques? "
+"Or do you want to apply a surcharge only for a specific payment method? "
+msgstr ""
+"Vuoi spingere i tuoi utenti a pagare con bonifico invece che con assegno? O "
+"vuoi applicare un costo aggiuntivo soltanto per uno specifico metodo di "
+"pagamento? "
+
+#: templates/premium/premium.php:241
+#, php-format
+msgid ""
+"These are the two available scenarios that the plugin allows to manage: "
+"choose the one you prefer for each available payment method by applying a "
+"%1$sdiscount%2$s or %1$ssurcharge%2$s on the cart total."
+msgstr ""
+"Questi sono i due possibili scenari che il plugin ti premette di gestire: "
+"scegli quello che preferisci per ciascun metodo di pagamento disponibile e "
+"applica uno %1$ssconto%2$s o %1$ssovrapprezzo%2$s al totale al carrello."
+
+#: templates/premium/premium.php:251
+msgid "More price rules"
+msgstr "Altre regole di prezzo"
+
+#: templates/premium/premium.php:254
+msgid ""
+"Thanks to the plugin premium version, you’ll be able to %1$screate and "
+"combine more price rules%2$s for the same payment method. You could, for "
+"example, think of applying a 5% discount on cheque payments for all users "
+"and an additional 10% off shop managers."
+msgstr ""
+"Grazie alla version premium del plugin, potrai %1$screare e combinare più "
+"regole di prezzo%2$s per lo stesso metodo di pagamento. Potresti, per "
+"esempio, pensare di applicare uno sconto del 5% sui pagamenti con assegno "
+"per tutti gli utenti e un ulteriore 10% per i gestori del negozio."
+
+#: templates/premium/premium.php:270
+msgid "Additional information"
+msgstr "Informazioni aggiuntive"
+
+#: templates/premium/premium.php:273
+#, php-format
+msgid ""
+"Add a %1$sshort description%2$s for each payment rule configured that will "
+"be visible to users on the Checkout page in the payment method box."
+msgstr ""
+"Aggiungi una %1$sbreve descrizione%2$s per ogni regola di pagamento "
+"configurata che sarà visibile ai tuoi utenti nella pagina Checkout "
+"all'interno del riquadro con tutti i metodi di pagamento disponibili."
+
+#: templates/premium/premium.php:283
+msgid "User roles"
+msgstr "Ruoli utente"
+
+#: templates/premium/premium.php:286
+#, php-format
+msgid ""
+"Create an ad hoc rule for specific users: choose the %1$suser roles%2$s to "
+"which applying the rule you have created and it’s done."
+msgstr ""
+"Crea una regola ad hoc per degli utenti specifici: scegli i %1$sruoli utente"
+"%2$s a cui applicare la regola creata ed è fatta."
+
+#: templates/premium/premium.php:289
+msgid ""
+"In simple words, you’ll be able to give a %1$s10% off%2$s to all your \"shop "
+"managers\" that’ll choose Stripe to pay for the order."
+msgstr ""
+"In parole semplici, potrai dare uno %1$s sconto del 10%%2$s a tutti i "
+"gestori del negozio che sceglieranno Stripe per pagare il loro ordine."
+
+#: templates/premium/premium.php:305
+msgid "Tax"
+msgstr "Tasse"
+
+#: templates/premium/premium.php:308
+#, php-format
+msgid ""
+"Did you choose to apply a discount or a percent surcharge based on the cart "
+"amount? Well, choose whether to %1$sinclude tax to the cart total or not"
+"%2$s, on which the payment method discount/surcharge will apply"
+msgstr ""
+"Hai scelto di applicare uno sconto o un sovrapprezzo percentuale "
+"sull'importo del carrello? Bene, scegli se %1$sincludere o meno le tasse nel "
+"totale del carrello%2$s al quale si applicherà anche il lo sconto/"
+"sovrapprezzo del metodo di pagamento"
+
+#: templates/premium/premium.php:318
+msgid "Cart amount"
+msgstr "Importo Carrello"
+
+#: templates/premium/premium.php:321
+#, php-format
+msgid ""
+"Do you want to offer a discount to those who use a %1$sspecific payment "
+"method%2$s, but you want that this applies only if the cart amount exceeds "
+"$100? With the premium version, you’ll be able to this as well."
+msgstr ""
+"Vuoi offrire uno sconto a coloro che utilizzano uno %1$sspecifico metodo di "
+"pagamento%2$s, ma vuoi che si applichi solo se il totale al carrello è "
+"maggiore di $100? Con la versione premium potrai farlo."
+
+#: templates/premium/premium.php:324
+#, php-format
+msgid ""
+"Optionally, you’ll be able to set a %1$sminimum and/or maximum cart%2$s "
+"amount needed for the payment method rule to apply."
+msgstr ""
+"Opzionalmente, potrai impostare un importo %1$sminimo e/o massimo%2$s "
+"richiesto per poter utilizzare un determinato metodo di pagamento."
+
+#: templates/premium/premium.php:340
+msgid "Limited-time offers"
+msgstr "Offerte a tempo limitato"
+
+#: templates/premium/premium.php:343
+#, php-format
+msgid ""
+"Make the payment rules you’ve just created automatic! You’ll be able to "
+"%1$sschedule start%2$s and %1$send date%2$s for each rule and make it "
+"automatically apply."
+msgstr ""
+"Rendi le regole che hai creato automatiche! Potrai %1$sprogrammare la data "
+"di nizio%2$s e %1$sdi fine%2$s per ogni regola e far sì che si applichi "
+"automaticamente."
